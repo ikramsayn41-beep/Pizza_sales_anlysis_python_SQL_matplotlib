@@ -4,37 +4,39 @@ Analysis of pizza sales data using tools like python , Pandas , Numpy and Matplo
 
 ## Key Insights:
 
- BBQ chiken is th etop seller ( 13m+ revenue)
+ _ BBQ chicken is the top seller ( 13m+ revenue)
  
- Medium and large sizes make up 82% of sales
+ _ Medium and large sizes make up 82% of sales
 
- Classic category leads with 59% of revenue 
+ _ Classic category leads with 59% of revenue 
 
- Small size and four cheese sell little 
+ _ Small size and four cheese sell little 
 
- Top city wise analysis and top ingredients and customers analysis which indicate that which city or ingredient need promote to better revenue
+ _ Top city wise analysis and top ingredients and customers analysis which indicate that which city or ingredient need promote to better revenue
 
 ## Recommendation
 
- Focus marketing on BBQ chicken , Medium / Large size and classic pizzas
+ _ Focus marketing on BBQ chicken , Medium / Large size and classic pizzas
  
- Run combo offers to boost small pizza and Four cheese
+ _ Run combo offers to boost small pizza and Four cheese
 
- Keep backup stock of high demand ingredients
+ _ Keep backup stock of high demand ingredients
 
  ## Future work 
  
- Analyze sales by day, month and peak hour
+ _ Analyze sales by day, month and peak hour
 
- Build and interactive dashboards in Python libraries and Power BI or tableau
+ _ Build and interactive dashboards in Python libraries and Power BI or tableau
 
- Forecast future sales using a simple time series models 
+ _ Forecast future sales using a simple time series models 
 
 ## Files 
 
- Pizza business sales analysis
+ _ Pizza business sales analysis
  
-
+## Contact 
+Gmail: Ikramsayn412gmail.com
+Mobile : 0355424917
 
 
 
