@@ -1,8 +1,8 @@
-#Pizza Sales Analysis
+# Pizza Sales Analysis
 
 Analysis of pizza sales data using tools like python , Pandas , Numpy and Matplotlib to find which product, size and categories generate most revenue. 
 
-##Key Insights:
+## Key Insights:
 
  BBQ chiken is th etop seller ( 13m+ revenue)
  
@@ -14,7 +14,7 @@ Analysis of pizza sales data using tools like python , Pandas , Numpy and Matplo
 
  Top city wise analysis and top ingredients and customers analysis which indicate that which city or ingredient need promote to better revenue
 
-##Recommendation
+## Recommendation
 
  Focus marketing on BBQ chicken , Medium / Large size and classic pizzas
  
@@ -22,7 +22,7 @@ Analysis of pizza sales data using tools like python , Pandas , Numpy and Matplo
 
  Keep backup stock of high demand ingredients
 
- ##Future work 
+ ## Future work 
  
  Analyze sales by day, month and peak hour
 
@@ -30,7 +30,7 @@ Analysis of pizza sales data using tools like python , Pandas , Numpy and Matplo
 
  Forecast future sales using a simple time series models 
 
-##Files 
+## Files 
 
  Pizza business sales analysis
  
